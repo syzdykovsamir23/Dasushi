@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60">
+  <defs>
+    <linearGradient id="lg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF204F"/>
+      <stop offset="100%" stop-color="#FF5C7A"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <rect x="4" y="6" width="48" height="48" rx="14" fill="none" stroke="url(#lg)" stroke-width="2"/>
+    <text x="28" y="30" text-anchor="middle" dominant-baseline="central"
+          font-family="'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="800"
+          fill="url(#lg)" letter-spacing="-1">DA</text>
+  </g>
+  <text x="64" y="38" font-family="'Helvetica Neue', Arial, sans-serif" font-size="26"
+        font-weight="300" fill="#ffffff" letter-spacing="4">DASUSHI</text>
+</svg>
